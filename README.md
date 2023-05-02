@@ -16,6 +16,8 @@ Worked in an Agile team as a Software QA Engineer in the last two year
 • Knowledge on Mobile Testing using Appium
 • Skilled in communication, always lifelong learner, self-motivated, taking responsibility, organized and also a good team player
 
-Tech I Use
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimbalta&show_icons=true&theme=transparent)
+
 
 
